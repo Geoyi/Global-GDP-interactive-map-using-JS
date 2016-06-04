@@ -6,4 +6,4 @@ to run the example:
 2. add the direct the file to <script src = 'your file path(where you store the countries. geojson)/countries.geojson'....>
 3. run the indexttestcountries.html. I use editor 'Geany' myself. 
 4. you will have this guy then. 
-![alt tag](https://github.com/Geoyi/Global-GDP-interactive-map-using-JS/blob/master/Picture1.png);
+![alt tag](Global-GDP-interactive-map-using-JS/Picture1.png);
