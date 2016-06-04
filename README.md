@@ -10,4 +10,4 @@ Run the indexttestcountries.html. I use editor 'Geany' myself.
 
 You will have this guy then. 
 
-![alt tag](Global-GDP-interactive-map-using-JS/Picture1.png);
+![alt tag](Global-GDP-interactive-map-using-JS/Picture1.png)
