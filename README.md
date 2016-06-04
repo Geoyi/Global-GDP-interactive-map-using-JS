@@ -1,0 +1,2 @@
+# Global-GDP-interactive-map-using-JS
+JavaScript, HTML and CSS codes I wrote to present first phase of a GIS web application I am creating. I use a simple and small dataset (in term of the size of actual data), global GDP. It's only 700k. But my actual data is about 30M. So I would add a GeoJoson-VT, created by mourner(his githut user name) , which is used to downsize the shapfile while loads to our web serve. Anyway if your datafile is only under 1m and you wanna do the same thing I present here, you are welcome to use the codes. 
