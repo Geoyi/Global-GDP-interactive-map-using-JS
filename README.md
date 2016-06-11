@@ -1,13 +1,12 @@
 # Global-GDP-interactive-map-using-JS
 JavaScript, HTML and CSS codes I wrote to present first phase of a GIS web application I am creating. I use a simple and small dataset (in term of the size of actual data), global GDP. It's only 700k. But my actual data is about 30M. So I would add a GeoJoson-VT, created by mourner(his githut user name) , which is used to downsize the shapfile while loads to our web serve. Anyway if your datafile is only under 1m and you wanna do the same thing I present here, you are welcome to use the codes. 
 
-To run the example:
-You could download the coungries.geojson I upload in the file. 
+## To run the example:
+###1. You could download the coungries.geojson I upload in the file. 
+### 2. Add the direct the file to <script src = 'your file path(where you store the countries. geojson)/countries.geojson'....>
+### 3. Run the indexttestcountries.html. I use editor 'Geany' myself. 
 
-Add the direct the file to <script src = 'your file path(where you store the countries. geojson)/countries.geojson'....>
+###You will have this guy then. 
+![picture1](https://cloud.githubusercontent.com/assets/14057932/15985198/41580d96-2fab-11e6-9453-d3d08af7a725.png)
 
-Run the indexttestcountries.html. I use editor 'Geany' myself. 
-
-You will have this guy then. 
-
-![alt tag](Global-GDP-interactive-map-using-JS/Picture1.png)
+### a video record for an overview of the interactive map is here: 
