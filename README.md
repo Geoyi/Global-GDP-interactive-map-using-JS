@@ -8,3 +8,5 @@ You will have this guy then.
 
 ### a video record for an overview of the interactive map is here: 
 https://www.youtube.com/watch?v=dJeNLS4riTo
+
+###You could also find me on: http://geoyi.org
